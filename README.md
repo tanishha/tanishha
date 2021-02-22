@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning MERN stack
 - 🤔 I’m looking for help with DevOps
-- 📫 How to reach me: <a href="tanishha.netlify.app" target="_blank">Tanisha Chaudhary</a>
+- 📫 How to reach me: <a href="https://tanishha.netlify.app" target="_blank">Tanisha Chaudhary</a>
 - 😄 Pronouns: She
 
 
