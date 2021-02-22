@@ -8,5 +8,4 @@
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishha&show_icons=true&theme=dracula&count_private=true" />
-
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tanishha.tanishha" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tanishha.tanishha" />
