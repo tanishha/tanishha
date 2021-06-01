@@ -7,4 +7,6 @@
 - 😄 Pronouns: She
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishha&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishha&show_icons=true&theme=nightowl&count_private=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishha&theme=buefy-dark" />
+
