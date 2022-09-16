@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-- 🔭 I’m currently working on MERN stack
+- 🔭 I’m currently working on Business Intelligence
 - 📫 How to reach me: <a href="https://tanishha.netlify.app" target="_blank">Tanisha Chaudhary</a>
 - 😄 Pronouns: She/Her
 
