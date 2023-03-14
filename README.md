@@ -1,10 +1,5 @@
 # Hello, folks! 👋
 
-- 🔭 I’m currently working on Business Intelligence
-- 📫 How to reach me: <a href="https://tanishha.netlify.app" target="_blank">Tanisha Chaudhary</a>
-- 😄 Pronouns: She/Her
-
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishha&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishha&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishha&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
